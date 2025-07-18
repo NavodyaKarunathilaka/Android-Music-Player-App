@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/dark_blue">
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="468dp"
+        android:layout_height="748dp"
+        android:background="#2A3157"
+        android:contentDescription="HansaMAD Logo"
+        android:src="@drawable/musichub_logo" />
+
+    <!-- Add a TextView for the app name -->
+    <TextView
+        android:id="@+id/MUSICHUB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

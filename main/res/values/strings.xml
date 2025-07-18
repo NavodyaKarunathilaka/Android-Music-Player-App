@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HansaMAD</string>
+    <string name="btnsignin">SIGN IN</string>
+    <string name="txtsignup">SIGN UP</string>
+    <string name="btnsignup">SIGN UP</string>
+    <string name="btnprofile">#</string>
+    <string name="btnplaylist">#</string>
+    <string name="btnfavourite">#</string>
+    <string name="btnsong">#</string>
+    <string name="btnbutton4">#</string>
+    <string name="btnlogout">Log Out</string>
+    <string name="btnbutton5">#</string>
+    <string name="btnbutton6">#</string>
+    <string name="btnbutton7">#</string>
+</resources>

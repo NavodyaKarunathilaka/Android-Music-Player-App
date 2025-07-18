@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="French_Beige">#9D84CA</color>
+    <color name="White_Smoke">#F8F5F5</color>
+    <color name="Night">#090909</color>
+    <color name="Rose_madder">#DC2A2A</color>
+    <color name="Seashell">#F6F0F0</color>
+    <color name="Soft_peach">#EFEDED</color>
+    <color name="Dawn_Pink">#F1EAEA</color>
+    <color name="Black">#050505</color>
+    <color name="onyx">#0E0E0E</color>
+
+    <color name="dark_blue">#2A3157</color>
+    <color name="light_blue">#a5d9ef</color>
+    <color name="dark_gray_blue">#6C708C</color>
+
+
+
+
+</resources>
